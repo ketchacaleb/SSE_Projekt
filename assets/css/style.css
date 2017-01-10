@@ -1,0 +1,16 @@
+video {
+    position: relative;
+}
+
+video {
+    display: inline-block;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    padding: 10px;
+
+    border-radius: 8px;
+    background: rgba(0,0,0, .5);
+    color: #fff;
+    z-index: 9;
+}
